@@ -13,3 +13,9 @@
 
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。账号@SGK_MG，安装Telegram后，复制账号到Telegram搜索账号即可进入。
 
+
+
+参考文章：
+
+* <a href="https://baike.baidu.com/item/%E7%A4%BE%E5%B7%A5%E5%BA%93/1896113" target="_blank">百度百科-社工库</a>
+* <a href="https://www.shegongku.top" target="_blank">互联网社工库</a>
