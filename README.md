@@ -7,7 +7,7 @@
 >🔔插个广告：因为大多数社工库都需要用到Telegram，大陆的朋友正常都上不了境外网站，给没法上外网的朋友推荐个很多人都在推荐的机场，每月几块钱，不限设备，外网想上就上👇👇👇👇👇
 
 
-<a href="https://img.fooliji.com/file/1015d9c5b28424ee58713.png" target="_blank"><img src="./pic/ad.png" alt="社工库专用机场" border="0"></a>
+<a href="https://idouyin.io/34" target="_blank"><img src="https://img.fooliji.com/file/1015d9c5b28424ee58713.png" alt="社工库专用机场" border="0"></a>
 
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
