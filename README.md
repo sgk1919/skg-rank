@@ -25,7 +25,7 @@
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
-账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@HereisHopeBot。账号：</a>，需要安装Telegram，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 免费社工库机器人⭐⭐⭐
