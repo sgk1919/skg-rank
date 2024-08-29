@@ -12,14 +12,12 @@
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
-账号: @AJL_SGK，安装Telegram后，复制账号到Telegram搜索账号即可进入。
+可查手机、QQ、微博、快递、身份户籍，账号: @AJL_SGK，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-这个社工库稳定运行有一段时间了，信息较全。
-
-账号：@aishegongkubot
+这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：@aishegongkubot，需要安装Telegram，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -202,5 +200,5 @@
 
 参考文章：
 
-* <a href="https://baike.baidu.com/item/%E7%A4%BE%E5%B7%A5%E5%BA%93/1896113" target="_blank">百度百科-社工库</a>
-* <a href="https://www.shegongku.top" target="_blank">互联网社工库</a>
+* <a href="https://www.fooliji.com/5404.html" target="_blank">社工库: 2024全网最全Telegram社工库，隐私信息查询</a>
+* <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>
