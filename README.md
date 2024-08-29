@@ -17,7 +17,7 @@
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@aishegongkubot</a>，需要安装Telegram，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@aishegongkubot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -25,14 +25,15 @@
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
-账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 免费社工库机器人⭐⭐⭐
 
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
 
-账号@SGK_MG，安装Telegram后，复制账号到Telegram搜索账号即可进入。
+
+账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
