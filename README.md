@@ -36,11 +36,6 @@
 账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
-
-社工库数据包含机主数据，猎魔数据，快递地址数据等，查询简单，直接发送相关查询条件即可。
-
-账号：@tsfsgkbot。
 
 ## 摩乐乐社工库机器人⭐⭐⭐
 
@@ -68,6 +63,14 @@
 主页介绍列了一大堆的支持数据。
 
 账号：@DD880_BOT
+
+
+## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐
+
+功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
+
+账号：<a href="https://www.fooliji.com/5431.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+
 
 
 ## 神龙综合社工机器人⭐⭐
