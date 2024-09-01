@@ -73,13 +73,6 @@
 
 
 
-## 神龙综合社工机器人⭐⭐
-
-点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。
-
-账号：@SL_SGK_bot 。
-
-
 ## 哈希社工库⭐
 
 支持人脸识别、手机号查询、短信轰炸。
@@ -94,6 +87,11 @@
 账号：@DiDiSGK_Bot 
 
 
+## 神龙综合社工机器人⭐
+
+__点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。__ 这个社工库已经废了，<a href="https://www.fooliji.com/5404.html" target="_blank">换别的吧</a>。
+
+账号：<a href="https://www.fooliji.com/5431.html" target="_blank">@SL_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## 内网信息在线查询社工库⭐
 
