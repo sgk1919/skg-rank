@@ -28,14 +28,6 @@
 账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-## 免费社工库机器人⭐⭐⭐
-
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
-
-
-账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
-
-
 
 ## 摩乐乐社工库机器人⭐⭐⭐
 
@@ -78,6 +70,14 @@
 支持人脸识别、手机号查询、短信轰炸。
 
 账号：@AnonymousSGKbot。
+
+
+## 免费社工库机器人⭐⭐⭐
+
+一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
+
+
+账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 滴滴社工库⭐
