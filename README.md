@@ -29,13 +29,6 @@
 
 
 
-## 摩乐乐社工库机器人⭐⭐⭐
-
-根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
-
-账号：@MoLeLeBot 
-
-
 ## 星盾社工机器人⭐⭐⭐
 
 数据不错，查询免费，解锁需要充值。
@@ -55,6 +48,15 @@
 主页介绍列了一大堆的支持数据。
 
 账号：@DD880_BOT
+
+
+
+## 摩乐乐社工库机器人-社工好帮手⭐⭐
+
+根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
+
+账号：<a href="https://www.shegongku.top/21.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+
 
 
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐
