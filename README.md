@@ -12,12 +12,12 @@
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
-可查手机、QQ、微博、快递、身份户籍，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL_SGK</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+可查手机、QQ、微博、快递、身份户籍，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL_SGK</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.shegongku.top/1.html" target="_blank">@aishegongkubot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.shegongku.top/1.html" target="_blank">@aishegongkubot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -25,21 +25,21 @@
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@HereisHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 黑盒社工库⭐⭐⭐⭐⭐
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BOXsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BOXsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 星盾社工机器人⭐⭐⭐
 
-数据不错，查询免费，解锁需要充值。
+星盾社工机器人收录的数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
-账号：@XingDun2Bot 
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XingDun6Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## XEPT社工库⭐⭐⭐
@@ -61,7 +61,7 @@
 
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -69,7 +69,7 @@
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -85,7 +85,7 @@
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
 
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 滴滴社工库⭐
@@ -99,7 +99,7 @@
 
 ~~点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。~~ 这个社工库已经废了，<a href="https://www.shegongku.top/1.html" target="_blank">换别的吧</a>。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SL_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SL_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## 内网信息在线查询社工库⭐
 
@@ -211,4 +211,4 @@
 参考文章：
 
 * <a href="https://www.fooliji.com/5404.html" target="_blank">社工库: 2024全网最全Telegram社工库，隐私信息查询</a>
-* <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>
+* <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>
