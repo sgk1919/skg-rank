@@ -61,7 +61,7 @@
 
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
-账号：<a href="https://www.shegongku.top/21.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -69,7 +69,7 @@
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
-账号：<a href="https://www.fooliji.com/5431.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -85,7 +85,7 @@
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
 
 
-账号：<a href="https://www.fooliji.com/5404.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 滴滴社工库⭐
@@ -97,9 +97,9 @@
 
 ## 神龙综合社工机器人⭐
 
-~~点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。~~ 这个社工库已经废了，<a href="https://www.fooliji.com/5404.html" target="_blank">换别的吧</a>。
+~~点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。~~ 这个社工库已经废了，<a href="https://www.shegongku.top/1.html" target="_blank">换别的吧</a>。
 
-账号：<a href="https://www.fooliji.com/5431.html" target="_blank">@SL_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SL_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.chaidongqiang.com/1.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## 内网信息在线查询社工库⭐
 
