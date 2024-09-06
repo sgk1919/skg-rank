@@ -77,7 +77,7 @@
 
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。更多社工库详见
 
 
 ## 哈希社工库⭐
@@ -211,3 +211,4 @@
 
 * <a href="https://www.fooliji.com/5404.html" target="_blank">社工库: 2024全网最全Telegram社工库，隐私信息查询</a>
 * <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>
+* <a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>
