@@ -42,12 +42,6 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XingDun6Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-## XEPT社工库⭐⭐⭐
-
-支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
-
-账号：@XeptSGKbot。
-
 
 ## 订单机器人⭐⭐⭐
 
@@ -72,20 +66,25 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
+## 免费社工库机器人⭐⭐
+
+一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
+
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+
+## XEPT社工库⭐
+
+支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。
+
 
 ## 哈希社工库⭐
 
 支持人脸识别、手机号查询、短信轰炸。
 
 账号：@AnonymousSGKbot。
-
-
-## 免费社工库机器人⭐⭐⭐
-
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
-
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 滴滴社工库⭐
