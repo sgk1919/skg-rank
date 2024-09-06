@@ -66,7 +66,7 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-## Hello World社工库⭐
+## Hello World社工库⭐⭐⭐
 
 此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
 
