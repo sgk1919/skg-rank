@@ -66,6 +66,14 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
+## Hello World社工库⭐
+
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+
+
+
 ## 免费社工库机器人⭐⭐
 
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
@@ -143,12 +151,6 @@
 
 账号： @SeedSGKBOT
 
-
-## Hello World社工库⭐
-
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
-
-账号：@sgk2023_03_30bot 
 
 ## 花花免费全球社工库⭐
 
