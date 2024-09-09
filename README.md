@@ -85,14 +85,14 @@
 
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。更多社工库详见
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。更多社工库详见<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 ## 哈希社工库⭐
 
 支持人脸识别、手机号查询、短信轰炸。
 
-账号：@AnonymousSGKbot。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@AnonymousSGKbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 滴滴社工库⭐
