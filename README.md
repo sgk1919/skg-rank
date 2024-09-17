@@ -32,7 +32,7 @@
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BOXsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BOXsgbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 星盾社工机器人⭐⭐⭐
@@ -48,7 +48,7 @@
 
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MooLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
