@@ -74,6 +74,15 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
+## 滴滴社工库⭐⭐
+
+本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，数据貌似也是旧的。
+
+账号：<a href="https://www.shegongku.top/24.html" target="_blank">@DiDiSGK_Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+
+
+
+
 ## XEPT社工库⭐
 
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
@@ -87,12 +96,6 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@AnonymousSGKbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
-
-## 滴滴社工库⭐
-
-本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，还收费~
-
-账号：@DiDiSGK_Bot 
 
 
 ## 神龙综合社工机器人⭐
