@@ -213,7 +213,7 @@
 >🔔插个广告：一个有意思的AI工具👇👇👇👇👇
 
 
-<a href="https://svjyy.jzzxh.top/?ymg" target="_blank"><img src="https://s2.loli.net/2024/09/07/LsFTqJXxa7Q35EI.gif" alt="AI图像处理" border="0"></a>
+<a href="https://idouyin.io/46" target="_blank"><img src="https://s2.loli.net/2024/09/07/LsFTqJXxa7Q35EI.gif" alt="AI图像处理" border="0"></a>
 
 
 
