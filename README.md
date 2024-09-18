@@ -71,7 +71,6 @@
 
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
 
-
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## 滴滴社工库⭐⭐
@@ -79,8 +78,6 @@
 本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，数据貌似也是旧的。
 
 账号：<a href="https://www.shegongku.top/24.html" target="_blank">@DiDiSGK_Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
-
-
 
 
 ## XEPT社工库⭐
@@ -95,7 +92,6 @@
 支持人脸识别、手机号查询、短信轰炸。
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@AnonymousSGKbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
-
 
 
 ## 神龙综合社工机器人⭐
@@ -115,12 +111,11 @@
 
 ## 内网信息在线查询社工库⭐
 
-=======狗屎======废了=====
 
 🚀本机器人支持：快递,开房,车主,机主,户籍,身份证,手机,邮箱,账号,密码等社工库查询、QQ查绑/贴吧查绑/英雄联盟查QQ手机姓名/微博查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
 
 
-账号：@NeiWangSGKbot
+账号：@NeiWangSGKbot，不过已经没法用了，看看其他社工库吧:<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 ## 新世界社工库⭐
