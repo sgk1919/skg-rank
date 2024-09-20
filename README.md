@@ -17,7 +17,7 @@
 
 ## AI社工库⭐⭐⭐⭐⭐
 
-这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.shegongku.top/1.html" target="_blank">@aisgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+这个社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分，账号：<a href="https://www.shegongku.top/1.html" target="_blank">@aiiiiisgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
