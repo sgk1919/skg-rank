@@ -10,6 +10,9 @@
 <a href="https://idouyin.io/34" target="_blank"><img src="https://img.fooliji.com/file/1015d9c5b28424ee58713.png" alt="社工库专用机场" border="0"></a>
 
 
+社工库账号都列举在下面了，鉴于个别同学不会使用社工库工具，贴一下教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
 可查手机、QQ、微博、快递、身份户籍，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL_SGK</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
