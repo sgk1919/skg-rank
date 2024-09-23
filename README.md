@@ -37,6 +37,12 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BOXsgbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
+## liemo社工库⭐⭐⭐⭐⭐
+
+速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。
+
+账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">@hh_liemo_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 ## 星盾社工机器人⭐⭐⭐
 
