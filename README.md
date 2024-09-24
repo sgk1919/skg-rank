@@ -60,19 +60,19 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MooLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
+## Hello World社工库⭐⭐⭐
+
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+
+
 
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
-
-
-## Hello World社工库⭐⭐⭐
-
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
@@ -94,6 +94,14 @@
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XeptSGKbot</a>，目前已经无法使用。更多社工库详见<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+
+
+## 屁屁社工库⭐
+
+可免费使用的社工库查询工具
+
+账号：<a href="https://www.shegongku.top/212.html" target="_blank">@ppsgk_bot</a>，附上<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 
 ## 哈希社工库⭐
