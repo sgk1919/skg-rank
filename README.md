@@ -17,7 +17,7 @@
 
 可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分，使用如下图：
 
-<a href="https://idouyin.io/34" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0"></a>
 
 账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL_SGK</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
