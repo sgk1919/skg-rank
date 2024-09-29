@@ -141,9 +141,9 @@
 
 ## 新世界社工库⭐
 
-数据质量一般。
+~~数据质量一般~~。
 
-账号： @Data888_bot
+账号： <a href="https://www.shegongku.top/1.html" target="_blank">@Data888_bot</a>，试了下，已经没法用了，没反应。想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 ## Botnet免费社工机器人⭐
