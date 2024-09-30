@@ -82,7 +82,9 @@
 
 ## 免费社工库机器人⭐⭐
 
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
+一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，群组内还支持免费短信轰炸功能。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0"></a>
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
