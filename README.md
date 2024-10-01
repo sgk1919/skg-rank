@@ -78,6 +78,15 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tsfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
+## Space社工库机器人⭐⭐
+
+这个社工库支持身份户籍查询、快递地址查询、开房记录、QQ绑定信息、微博绑定信息，隐私信息免费查询，解锁需要积分，可以通过分享获得积分。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0"></a>
+
+
+社工库Telegram账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SpaceSGK_bot</a>，不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 
 ## 免费社工库机器人⭐⭐
@@ -154,12 +163,6 @@
 
 账号：@SGK_0001_bot
 
-
-## Space社工库机器人⭐
-
-身份户籍/开房记录，隐私信息免费查询
-
-账号：@SpaceSGK_bot 。
 
 
 ## 老牌政务机器人⭐
