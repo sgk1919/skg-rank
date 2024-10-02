@@ -159,9 +159,9 @@
 
 ## Botnet免费社工机器人⭐
 
-数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询。
+~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。
 
-账号：@SGK_0001_bot
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_0001_bot</a>。这个账号目前已经搜索不到了，想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 
