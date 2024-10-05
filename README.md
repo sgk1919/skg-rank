@@ -112,6 +112,14 @@
 账号：<a href="https://www.shegongku.top/24.html" target="_blank">@DiDiSGK_Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
+## 狗狗免费社工机器人⭐⭐
+
+直接发送身份证号或QQ号码等信息，返回的数据简单、但是收录的数据不如<a href="https://www.shegongku.top/21.html" target="_blank" >前面分享的社工库</a>。全面。
+
+账号：<a href="https://www.shegongku.top/314.html" target="_blank">@DogeSGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
 ## XEPT社工库⭐
 
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
@@ -192,11 +200,6 @@
 
 账号：@sgkvipbot
 
-## 狗狗免费社工机器人⭐
-
-直接发送身份证号或QQ号码等信息，返回的数据简单、但是不是很全。
-
-账号：@DogeSGK_bot 
 
 ## X-ray社工库⭐
 
