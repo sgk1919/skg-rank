@@ -114,7 +114,7 @@
 
 ## 狗狗免费社工机器人⭐⭐
 
-直接发送身份证号或QQ号码等信息，返回的数据简单、但是收录的数据不如<a href="https://www.shegongku.top/21.html" target="_blank" >前面分享的社工库</a>。全面。
+直接发送身份证号或QQ号码等信息，返回的数据简单、但是收录的数据不如<a href="https://www.shegongku.top/21.html" target="_blank" >前面分享的社工库</a>全面。
 
 账号：<a href="https://www.shegongku.top/314.html" target="_blank">@DogeSGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
