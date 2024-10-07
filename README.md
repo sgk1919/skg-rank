@@ -17,7 +17,7 @@
 
 可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分，使用如下图：
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0"></a>
+<img src="pic/ajl.png" alt="暗精灵社工库" border="0">
 
 账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL_SGK</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
@@ -74,9 +74,11 @@
 
 ## Hello World社工库⭐⭐⭐
 
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：<a href="https://www.shegongku.top/26.html" target="_blank">社工库分享：Seed社工库，支持手机机主、身份户籍、快递订单、企业法人信息查询</a>。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+<img src="pic/hello.png" alt="Hello World社工库" border="0">
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
