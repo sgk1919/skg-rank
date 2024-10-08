@@ -128,7 +128,17 @@
 
 支持查询手机机主、身份户籍、快递订单、绑定信息、贷款记录、车主信息、学籍信息、企业法人、保险记录。通过签到、分享可以免费使用，但是测试效果是数据较少。此社工库详情：<a href="https://www.shegongku.top/86.html" target="_blank">社工库分享：Seed社工库，支持手机机主、身份户籍、快递订单、企业法人信息查询</a>。
 
-社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SeedSGKBOT</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SeedSGKBOT</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+## 花花免费全球社工库⭐⭐
+
+最强免费社工人肉机器人，永久免费使用，全网数据最新最全（来自社工库自述），使用时需要发送特定格式的指令，此社工库详情：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库，永久免费使用，支持身份证正反面/开房记录/微信/QQ/微博/抖音等信息查询</a>。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0"></a>
+
+
+社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgkvipbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 
 
@@ -198,13 +208,6 @@
 老牌政务机器人，支持上海10亿&银联7亿猎魔查询、全国无地址个户信息、全国法人信息、二要素查询。
 
 账号：@TorontoSGKbot
-
-
-## 花花免费全球社工库⭐
-
-号称：最强免费社工人肉机器人，永久免费使用，全网数据最新最全。
-
-账号：@sgkvipbot
 
 
 ## X-ray社工库⭐
