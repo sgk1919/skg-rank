@@ -94,6 +94,14 @@
 
 
 
+## ingeek社工库⭐⭐
+
+这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。有人反映此账号存在诈骗行为(不充值就不存在诈骗，免费的玩玩就好，充值也不一定能查出东西，社工库只对泄露数据有效，而且还有时效性)，使用时请自行甄别，涉及交易三四后行。具体查看此社工库详情：<a href="https://www.shegongku.top/39.html" target="_blank" >https://www.shegongku.top/39.html</a>。
+
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@ingeeksgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
@@ -231,12 +239,6 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MI6SGK_bot</a>。貌似没法用了，想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
-
-## ingeek社工库⭐
-
-有人反映此账号存在诈骗行为，使用时请自行甄别，涉及交易三四后行~
-
-账号：@ingeeksgkbot
 
 ## 知乎社工库⭐
 
