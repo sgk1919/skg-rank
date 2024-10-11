@@ -229,7 +229,8 @@
 
 简单易用的社工库。
 
-账号：@MI6SGK_bot 
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MI6SGK_bot</a>。貌似没法用了，想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+
 
 ## ingeek社工库⭐
 
