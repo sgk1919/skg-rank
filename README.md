@@ -242,9 +242,11 @@
 
 ## 知乎社工库⭐
 
-能返回QQ绑定数据和学习通数据，但返回的结果比较简单。
+~~能返回QQ绑定数据和学习通数据，但返回的结果比较简单。~~  更新：签到正常，无法返回数据？
 
-账号：@zhihu_bot 
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@zhihu_bot</a>。貌似没法用了，此社工库详情：<a href="https://www.shegongku.top/27.html" target="_blank" >知乎社工库，QQ绑定查询、学习通查询</a>。
+
+
 
 ## 平安社工库⭐
 
