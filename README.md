@@ -58,6 +58,15 @@
 账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">@hh_liemo_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 平安社工库⭐⭐⭐⭐
+
+平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://www.shegongku.top/41.html" target="_blank" >平安社工库</a>。
+
+
+
+账号信息：<a href="https://www.shegongku.top/1.html" target="_blank">@pingansgk_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 ## 星盾社工机器人⭐⭐⭐⭐
 
 星盾社工机器人收录的数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
@@ -69,9 +78,7 @@
 
 可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@KoiSGKbot</a>，Koi社工库使用详情：<a href="https://www.shegongku.top/282.html" target="_blank" >
-社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址
-</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@KoiSGKbot</a>，Koi社工库使用详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
 
 
 
@@ -247,12 +254,6 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@zhihu_bot</a>。貌似没法用了，此社工库详情：<a href="https://www.shegongku.top/27.html" target="_blank" >知乎社工库，QQ绑定查询、学习通查询</a>。
 
 
-
-## 平安社工库⭐
-
-主页介绍：身份户籍、手机机主、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、MD5对应明文、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式相关信息。
-
-账号：@pingansgk_bot 
 
 
 ## 情报局社工库⭐
