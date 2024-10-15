@@ -45,7 +45,7 @@
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@HereHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a href="https://www.shegongku.top/1.html" target="_blank">@HereHopeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 黑盒社工库⭐⭐⭐⭐⭐
