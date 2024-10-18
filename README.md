@@ -61,15 +61,6 @@
 账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">@hh_liemo_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 平安社工库⭐⭐⭐⭐
-
-平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://www.shegongku.top/41.html" target="_blank" >平安社工库</a>。
-
-<a href="https://idouyin.io/34" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0"></a>
-
-
-账号信息：<a href="https://www.shegongku.top/1.html" target="_blank">@pingansgk_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 ## 星盾社工机器人⭐⭐⭐⭐
 
@@ -84,6 +75,15 @@
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@KoiSGKbot</a>，Koi社工库使用详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
 
+
+## 平安社工库⭐⭐⭐⭐
+
+平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://www.shegongku.top/41.html" target="_blank" >平安社工库</a>。
+
+<a href="https://idouyin.io/34" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0"></a>
+
+
+账号信息：<a href="https://www.shegongku.top/1.html" target="_blank">@pingannnnsgk_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 摩乐乐社工库机器人-社工好帮手⭐⭐
